@@ -1,0 +1,13 @@
+api/venv
+api/__pycache__
+
+frontend/.next
+frontend/node_modules
+frontend/.env*
+frontend/.gitignore
+# vercel
+fontent/.vercel
+
+PlantVillage
+./PlantVillage.zip
+restplants
